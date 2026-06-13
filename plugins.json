@@ -1,0 +1,110 @@
+[
+  {
+    "name": "AnimePahe (Sub/Dub)",
+    "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/refs/heads/builds/plugins/AnimePahe.jar",
+    "version": 4,
+    "apiVersion": 2,
+    "package": "com.lagradost.animepahe",
+    "tvTypes": ["Anime", "AnimeMovie"],
+    "authors": ["YourCustomRepo"]
+  },
+  {
+    "name": "KickAssAnime (Sub/Dub)",
+    "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/refs/heads/builds/plugins/KickAssAnime.jar",
+    "version": 3,
+    "apiVersion": 2,
+    "package": "com.lagradost.kickassanime",
+    "tvTypes": ["Anime", "AnimeMovie"],
+    "authors": ["YourCustomRepo"]
+  },
+  {
+    "name": "Aniworld (Global Anime)",
+    "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/refs/heads/builds/plugins/Aniworld.jar",
+    "version": 2,
+    "apiVersion": 2,
+    "package": "com.lagradost.aniworld",
+    "tvTypes": ["Anime"],
+    "authors": ["YourCustomRepo"]
+  },
+  {
+    "name": "Anineko",
+    "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/refs/heads/builds/plugins/Anineko.jar",
+    "version": 2,
+    "apiVersion": 2,
+    "package": "com.lagradost.anineko",
+    "tvTypes": ["Anime"],
+    "authors": ["YourCustomRepo"]
+  },
+  {
+    "name": "AllWish Anime",
+    "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/refs/heads/builds/plugins/AllWish.jar",
+    "version": 3,
+    "apiVersion": 2,
+    "package": "com.lagradost.allwish",
+    "tvTypes": ["Anime", "AnimeMovie"],
+    "authors": ["YourCustomRepo"]
+  },
+  {
+    "name": "AnimeDekho (Dubs Included)",
+    "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/refs/heads/builds/plugins/AnimeDekho.jar",
+    "version": 2,
+    "apiVersion": 2,
+    "package": "com.lagradost.animedekho",
+    "tvTypes": ["Anime"],
+    "authors": ["YourCustomRepo"]
+  },
+  {
+    "name": "One Pace (Cut Anime)",
+    "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/refs/heads/builds/plugins/OnePace.jar",
+    "version": 1,
+    "apiVersion": 2,
+    "package": "com.lagradost.onepace",
+    "tvTypes": ["Anime"],
+    "authors": ["YourCustomRepo"]
+  },
+  {
+    "name": "SuperStream (Movies & Shows)",
+    "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/refs/heads/builds/plugins/SuperStream.jar",
+    "version": 12,
+    "apiVersion": 2,
+    "package": "com.lagradost.superstream",
+    "tvTypes": ["Movie", "TvSeries"],
+    "authors": ["YourCustomRepo"]
+  },
+  {
+    "name": "Goojara Engine",
+    "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/refs/heads/builds/plugins/Goojara.jar",
+    "version": 5,
+    "apiVersion": 2,
+    "package": "com.lagradost.goojara",
+    "tvTypes": ["Movie", "TvSeries"],
+    "authors": ["YourCustomRepo"]
+  },
+  {
+    "name": "KissKH Multi",
+    "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/refs/heads/builds/plugins/Kisskh.jar",
+    "version": 6,
+    "apiVersion": 2,
+    "package": "com.lagradost.kisskh",
+    "tvTypes": ["Movie", "Anime", "TvSeries"],
+    "authors": ["YourCustomRepo"]
+  },
+  {
+    "name": "UHDMovies Source",
+    "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/refs/heads/builds/plugins/UHDmovies.jar",
+    "version": 3,
+    "apiVersion": 2,
+    "package": "com.lagradost.uhdmovies",
+    "tvTypes": ["Movie"],
+    "authors": ["YourCustomRepo"]
+  },
+  {
+    "name": "Sflix Movie Center",
+    "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/refs/heads/builds/plugins/Sflix.jar",
+    "version": 8,
+    "apiVersion": 2,
+    "package": "com.lagradost.sflix",
+    "tvTypes": ["Movie", "TvSeries"],
+    "authors": ["YourCustomRepo"]
+  }
+]
