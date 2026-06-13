@@ -1,6 +1,6 @@
 {
-  "name": "My Custom Anime Network",
-  "description": "Handbuilt custom anime streaming plugins",
+  "name": "My Custom 12-Plugin Stream Network",
+  "description": "Personal repository tracking 12 verified Subbed and Dubbed streaming engines",
   "manifestVersion": 1,
   "pluginLists": [
     "https://raw.githubusercontent.com/KKanav01/my-anime-repo/main/plugins.json"
