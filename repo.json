@@ -1,0 +1,13 @@
+[
+  {
+    "name": "My Custom Anime Engine",
+    "version": 1,
+    "apiVersion": 2,
+    "providerClassName": "com.lagradost.MyAnimeExtractor",
+    "author": "YourName",
+    "sourceUrl": "https://github.com",
+    "tvTypes": ["Anime", "AnimeMovie"],
+    "iconUrl": "https://raw.githubusercontent.com/recloudstream/cloudstream/master/app/src/main/res/drawable/ic_launcher_round.png",
+    "url": "https://raw.githubusercontent.com/KKanav01/my-anime-repo/main/MyAnimeExtractor.apk"
+  }
+]
